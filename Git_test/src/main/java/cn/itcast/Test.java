@@ -5,5 +5,7 @@ public class Test {
 
         System.out.println("测试类");
 
+        int a = 0;
+        a+=10;
     }
 }
